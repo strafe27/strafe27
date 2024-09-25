@@ -1,7 +1,3 @@
-Here’s a potential version for your GitHub intro README:
-
----
-
 ## Hi there 👋 I'm Hafidz
 
 I'm a Postgraduate student currently researching **Machine Learning** .I've been focusing on mastering a variety of fields including **Data Engineering**, **Data Analysis**, and **Data Science**.
