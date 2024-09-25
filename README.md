@@ -4,7 +4,7 @@ I'm a Postgraduate student currently researching **Machine Learning** . I've als
 
 ### 🛠️ Tools and Technologies I Work With:
 - **Orchestration:** Airflow
-- **Data Modelling:** dbt, PostgreSQL, SQLite
+- **Data Modelling:** dbt
 - **Data Warehouse:** PostgreSQL, SQLite, Snowflake
 - **Cloud:** AWS, Azure
 - **Machine Learning:** Pandas, NumPy, TensorFlow
