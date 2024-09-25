@@ -20,7 +20,3 @@ Here are some of my projects showcasing my skills:
 
 ### 📬 Let's Connect:
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/hafidz-hasnor-440459122/)!
-
----
-
-Let me know if you'd like any adjustments!
