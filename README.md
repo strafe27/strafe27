@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hafidz
 
-I'm a Postgraduate student currently researching **Machine Learning** . I've also been focusing on mastering a variety of fields including **Data Engineering**, **Data Analysis**, and **Data Science**.
+I'm a Postgraduate student currently researching **Machine Learning** . I've also been focusing on mastering a variety of fields including **Robotics**,**Data Engineering**, **Data Analysis**, and **Data Science**.
 
 ### 🛠️ Tools and Technologies I Work With:
 - **Orchestration:** Airflow
