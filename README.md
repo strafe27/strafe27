@@ -13,6 +13,7 @@ I'm a Postgraduate student currently researching **Machine Learning** . I've als
 
 ### 🚀 Projects:
 Here are some of my projects showcasing my skills:
+- [Malaysian Bus Tracking System](https://github.com/strafe27/bus-tracker)
 - [KLIA Traffic Monitoring and Databasing](https://github.com/strafe27/klia-traffic-monitoring-and-databasing)
 - [Malaysia Film FINAS DAG](https://github.com/strafe27/malaysia-film-finas-dag)
 - [Malaysia Weather Pipeline](https://github.com/strafe27/malaysia-weather-pipeline)
